@@ -21,4 +21,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - checkout code base from git hub
 - npm install
 - npm run dev
-- Run http://localhost:5173/
+- This should return the app url in the terminal
